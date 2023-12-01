@@ -9,7 +9,9 @@ permalink: /about
 
 Oliver Atwood is a designer and researcher whose work focuses on the interaction of the built and natural environment at a variety of scales. He is passionate about using a data-driven approach to increase the resilience of the built environment through deployment of nature-based solutions.
 
-Oliver is currently a graduate student of Urban Spatial Analytics at the University of Pennsylvania. Prior to graduate school, he practiced architecture in San Francisco and worked on the design and construction of rammed earth buildings and art installations in Nepal and California. Oliver studied Landscape Architecture & Regional Planning at the University of Pennsylvania and holds a bachelor’s degree in Architectural Studies from the University of Virginia.
+Oliver is currently a graduate student of Urban Spatial Analytics at the University of Pennsylvania. Prior to graduate school, he practiced architecture in San Francisco and worked on the design and construction of rammed earth buildings and art installations in Nepal and California.
+
+Oliver studied Landscape Architecture & Regional Planning at the University of Pennsylvania and holds a bachelor’s degree in Architectural Studies from the University of Virginia.
 
 
 

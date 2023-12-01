@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-logo: '/assets/img/musa-logo.png'
+logo: '/assets/img/OA_Logo.png'
 
 intro_title: Personal Mission 10-word Summary
 intro_text: |
-  A brief couple of sentences describing your personal mission statement goes
-  here. This is a great place to very succinctly tell a visitor what drives you
-  and what you're passionate about.
+  Oliver Atwood is a designer and researcher whose work focuses on the interaction 
+  of the built and natural environment at a variety of scales. He is passionate about
+  using a data-driven approach to increase the resilience of the built environment
+  through deployment of nature-based solutions.
 
-resume: '/assets/files/resume.pdf'
+resume: '/assets/files/OA_CV.pdf'
 resume_link_title: Download Resume
 
 menu:
 - {name: 'Projects', url: ' '}
-- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -23,11 +23,9 @@ menu:
 
 social_label: Connect
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github',    link: 'https://github.com/olivegardener'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/oliveratwood/'}
+- {icon: 'envelope',  link: 'mailto:mailto:oatwood@upenn.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -37,7 +35,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Personal portfolio of Oliver Atwood'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 

@@ -1,6 +1,5 @@
 ---
 layout: about
-title: Oliver Atwood
 headshot: /assets/img/Headshot.jpg
 permalink: /about
 ---

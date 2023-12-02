@@ -4,7 +4,7 @@ headshot: /assets/img/Headshot.jpg
 permalink: /about
 ---
 
-# About Me
+<!-- # About Me -->
 
 Oliver Atwood is a designer & researcher whose work focuses on the interaction of the built and natural environment at a variety of scales. He is passionate about using a data-driven approach to increase the resilience of the built environment through deployment of nature-based solutions.
 
